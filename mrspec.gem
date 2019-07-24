@@ -1,0 +1,7 @@
+name: mrspec
+description: FizzBuzz class
+author: kiryuu eizi
+website: https://github.com/ore-public/mrspec
+protocol: git
+repository: https://github.com/ore-public/mrspec.git
+license: MIT
