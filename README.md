@@ -8,7 +8,7 @@ MRuby::Build.new do |conf|
 
     # ... (snip) ...
 
-    conf.gem :github => 'ore-public/mrspec'
+    conf.gem :github => 'yuukis234/mrspec'
 end
 ```
 ## example
